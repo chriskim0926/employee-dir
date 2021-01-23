@@ -62,13 +62,18 @@ const Home = () => {
                 <th scope="col">Phone</th>
               </tr>
             </thead>
+            
             {employees.filter((val) => {
+              
               if (input ==""){
                 return val
               }else if (val.name.first.toLowerCase().includes(input.toLowerCase())){
+
                 return val
+
               }else if (val.name.last.toLowerCase().includes(input.toLowerCase())){
                 return val
+                
               }
 
             }).map((employee)=>(
