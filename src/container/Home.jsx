@@ -26,16 +26,7 @@ const Home = () => {
     setInput(e.target.value);
   };
  
-  let data =[];
-
-  if(input.length > 0){
-    data = data.filter((employee) => {
-      console.log(employee.name)
-      return employee.name.match(input);
-    })
-  
-   
-  }
+ 
 
   return (
     <div>
