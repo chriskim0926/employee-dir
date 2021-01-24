@@ -1,12 +1,11 @@
-## Fitness Tracker
-Fitness tracker is workout tracking application and show your current workout status in two categoriew (Resistance and Cardio).
+## Employee Directory
+Employee directory applicatio allows user to search nonsensitive information in the company database to view employee's name, address, email, phone, and view profile picture. 
+
 
 ## Instruction
-1) Choose a New Workout or continue from previous workout
-2) Choose your work type, Resistance or Cardio. 
-3) Give your workout a name and enter the require data
-4) Press complete once workout is done, or Press Add Exercise to enter another workout. 
-
+Search Option 
+1) Enter the first name you would wane to search in the text box. 
+2) View all employee on the list by name and Sort the directory by alphabetical order.  
 
 
 ## Technologies
@@ -33,3 +32,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
